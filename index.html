@@ -13,6 +13,28 @@
 
 <img src="logoPagina.png" alt="logo" class="logo">
 
+<audio id="miAudio" loop>
+    <source src="A sight to behold.mp3" type="audio/mpeg">
+</audio>
+
+<button id="miBoton" onclick="toggleAudio()" class="boton">Reproducir</button>
+
+<script>
+function toggleAudio() {
+    var audio = document.getElementById("miAudio");
+    var boton = document.getElementById("miBoton");
+
+    if (audio.paused) {
+        audio.play();
+        boton.innerText = "Pausar";
+    } else {
+        audio.pause();
+        boton.innerText = "Reproducir";
+    }
+}
+</script>
+
+
 <h3 class="tituloTabla">Los mejores albums</h3>
 
 <table class="tabla">
@@ -115,9 +137,5 @@
         <li><a href="https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF" target="_blank">Lorna Shore</a></li>
         <li><a href="https://open.spotify.com/artist/70Dq7XQ95jLPUfMoVbcnuS" target="_blank">Magna Carta Cartel</a></li>
     </ul>
-
-    <audio autoplay loop>
-            <source src="A sight to behold.mp3" type="audio/mpeg">
-    </audio>
 </body>
 </html>

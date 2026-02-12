@@ -93,3 +93,23 @@ Body {
 .listaArtistas a:hover {
     color: #B11226;
 }
+
+.boton {
+    position: fixed;
+    bottom: 15px;
+    left: 15px;
+    height: 40px;
+    width: 120px;
+    background-color: #0B0C10;
+    color: #C0C0C0;
+    border: 2px solid transparent;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: all 0.4s ease;
+}
+
+.boton:hover {
+    border-color: #FDFDFD;
+    color: #FDFDFD; 
+}
