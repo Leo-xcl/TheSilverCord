@@ -1,0 +1,76 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: var(--bg-color);
+    background-image: url("Recursos/Bordes.png"), url("Recursos/Bordes.png");
+    background-repeat: repeat-y;
+    background-position: left top, right top;
+    background-size: 20% 100vh;
+    color: var(--text-gray);
+    min-height: 100vh;
+}
+
+.contenido {
+    display: flex;
+    justify-content: center;
+    padding: 3rem 2rem;
+}
+
+.legal-container {
+    width: 60%;
+    background-color: var(--table-color);
+    border: 1px solid var(--border-soft);
+    border-radius: 8px;
+    padding: 4rem 5rem;
+}
+
+.legal-titulo {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 60px;
+    color: var(--primary-red);
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+.legal-fecha {
+    text-align: center;
+    color: var(--text-silver);
+    font-size: 13px;
+    margin-bottom: 3rem;
+    letter-spacing: 1px;
+}
+
+.legal-seccion {
+    margin-bottom: 2.5rem;
+    padding-bottom: 2.5rem;
+    border-bottom: 1px solid var(--border-soft);
+    text-align: center;
+}
+
+.legal-seccion:last-child {
+    border-bottom: none;
+}
+
+.legal-seccion h2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 24px;
+    color: var(--text-white);
+    margin-bottom: 1rem;
+}
+
+.legal-seccion p {
+    font-size: 13px;
+    line-height: 2;
+    color: var(--text-silver);
+}
+
+.legal-seccion a {
+    color: var(--primary-red);
+    text-decoration: none;
+}
+
+.legal-seccion a:hover {
+    text-decoration: underline;
+}
