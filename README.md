@@ -53,3 +53,108 @@ Para evaluar este proyecto en un entorno local, sigue estos pasos:
 ---
 
 <h3 align="center">Capturas de Pantalla:</h3>
+
+<br>
+<p align="center">Pantalla Principal</p>
+<br>
+<p align="center">
+  <img src="Recursos/C1.png" width="700">
+</p>
+
+<br>
+<p align="center">Filtrado de Albums</p>
+<br>
+<p align="center">
+  <img src="Recursos/C2.png" width="700">
+</p>
+
+<br>
+<p align="center">Inicio de Sesión</p>
+<br>
+<p align="center">
+  <img src="Recursos/C3.png" width="700">
+</p>
+
+<br>
+<p align="center">Tabla de Registros</p>
+<br>
+<p align="center">
+  <img src="Recursos/C4.png" width="700">
+</p>
+
+<br>
+<p align="center">Filtrado de Registros</p>
+<br>
+<p align="center">
+  <img src="Recursos/C5.png" width="700">
+</p>
+
+<br>
+<p align="center">Registro de Albums</p>
+<br>
+<p align="center">
+  <img src="Recursos/C6.png" width="700">
+</p>
+
+<br>
+<p align="center">Actualizacion de Albums</p>
+<br>
+<p align="center">
+  <img src="Recursos/C7.png" width="700">
+</p>
+
+<br>
+<p align="center">Borrado de Albums</p>
+<br>
+<p align="center">
+  <img src="Recursos/C8.png" width="700">
+</p>
+
+<br>
+<p align="center">Registro de Cuentas</p>
+<br>
+<p align="center">
+  <img src="Recursos/C9.png" width="700">
+</p>
+
+<br>
+<p align="center">Actualización de Cuentas</p>
+<br>
+<p align="center">
+  <img src="Recursos/C10.png" width="700">
+</p>
+
+<br>
+<p align="center">Borrado de Cuentas</p>
+<br>
+<p align="center">
+  <img src="Recursos/C11.png" width="700">
+</p>
+
+<br>
+<p align="center">Registro de Tarjeta (Suscripción)</p>
+<br>
+<p align="center">
+  <img src="Recursos/C12.png" width="700">
+</p>
+
+<br>
+<p align="center">Información Legal</p>
+<br>
+<p align="center">
+  <img src="Recursos/C13.png" width="700">
+</p>
+
+<br>
+<p align="center">Restricción de Cuenta</p>
+<br>
+<p align="center">
+  <img src="Recursos/C14.png" width="700">
+</p>
+
+<br>
+<p align="center">Restricción de Plan</p>
+<br>
+<p align="center">
+  <img src="Recursos/C15.png" width="700">
+</p>
